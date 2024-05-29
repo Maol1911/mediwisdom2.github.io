@@ -1,0 +1,24 @@
+
+.team-member {
+    margin: 8px;
+    transition: all .3s ease;
+    cursor: pointer;
+}
+
+.team-member:hover {
+    transform: scale(1.1);
+}
+
+.team-photo {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin: 10px;
+}
+
+h4,
+p {
+    text-align: center;
+    font-size: 12px;
+    margin: 7px;
+}
